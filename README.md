@@ -1,8 +1,5 @@
 <div align="center">
 
-  <!-- Replace the URL below with a sleek, dark-themed CAD render, point-cloud map, or Isaac Sim screenshot (Recommended size: 1500x400) -->
-  <img src="https://via.placeholder.com/1200x250/0a0a0a/ffffff?text=+INSERT+CLEAN+SIMULATION+OR+CAD+RENDER+BANNER+HERE+" width="100%" style="border-radius: 8px;"/>
-
   <br><br>
 
   <h1>JAYAN K. DUGGAL</h1>
@@ -31,7 +28,7 @@
 
 ## 🏗 Production Deployments & Technical Direction
 
-### 🚜 Off-Road Autonomous Heavy Machinery | *Caterpillar*
+### 🚜 Off-Road Autonomous Heavy Machinery | *Caterpillar Robotics*
 * **Scope:** VLA foundation models and onboard control architectures for off-road autonomous driving.
 * **Execution:** Executed Super Fine-Tuning (SFT) on OpenPi and GROOT. Engineered AI-agent data pipelines leveraging Claude/GPT to automate ROSbag synthetic data generation and validation across complex system dynamics.
 
@@ -51,7 +48,7 @@
 
 ## 📜 Intellectual Property & Academic Output
 
-* **Patents:** 2 US Patents — *Robotic Rebar-Tying Systems and Automated End Effectors*
+* **Patents:** 2 US Patents — *Robotic Rebar-Tying Systems and Automated Rebar End Effectors*
 * **Publications:** 6 peer-reviewed papers on embedded AI and perception systems.
 * **Research Focus:** Design Space Exploration of DNNs for Autonomous Systems (Purdue University, MS ECE)
 

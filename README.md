@@ -28,8 +28,8 @@
 
 ## 🏗 Track Record: Zero-to-One Scaling & Production Deployments
 
-### 🏗 Civil Infrastructure Automation | *Autoty Platform (GEM Technologies)*
-* **Role:** Founder & Technical Director
+### 🏗 Civil Infrastructure Automation | (GEM Technologies)*
+* **Role:** Acting Technical Director and Lead Robotics Engg
 * **Venture Impact:** Led an 8–12 person multidisciplinary engineering organization to architect, deploy, and patent an autonomous horizontal rebar-tying robotic system for heavy civil construction.
 * **Technical & Commercial ROI:** Engineered vision-based deep RL pipelines and specialized end effectors, **securing 2 US Patents** and driving a **55% reduction in project CapEx/expenditures**.
 
